@@ -11,7 +11,7 @@ Here, you'll find a collection of programming projects I've worked on, ranging f
 <!--- ![Twitter Follow](https://img.shields.io/twitter/follow/ThePositiveBoy?style=social) -->
 
 ## 💻 My Tech Stack:
-[![Java, Git, JavaScript, HTML, CSS, SQL, Python, Next.js, Node.js, React, Angular](https://skillicons.dev/icons?i=java,git,js,html,css,py,next,nodejs,react,angular)](https://skillicons.dev)
+<!-- [![Java, Git, JavaScript, HTML, CSS, SQL, Python, Next.js, Node.js, React, Angular](https://skillicons.dev/icons?i=java,git,js,html,css,py,next,nodejs,react,angular)](https://skillicons.dev) -->
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -44,6 +44,50 @@ Here, you'll find a collection of programming projects I've worked on, ranging f
 <!--🗄️ 🖇️ 📇 ✨ 🌟 -->
 <details>
   <summary>Show projects</summary>
+
+<!--Template for a new project:
+
+### [Porjectname (Languages/More Languages)](link_to_project)
+Description
+<details>
+  <summary>More details</summary>
+  A bit longer description
+
+#### Some screenshots from my application:
+<img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</details>
+
+-->
+
+<!-- Projects to add:
+
+ -->
+
+
+<!--Project: -->
+### [Todolist (Javascript/node.js/express.js)](https://github.com/AlexandersProjects/todolist-v2)
+My Todo List application with Javascript, node.js, and express.js.
+<details>
+  <summary>More details</summary>
+  This is a Todo List application built with Node.js, Express, and MongoDB. It allows users to create, view, and delete tasks.
+
+#### My application:
+
+<img alt="My todolist-v2 Application" src="./images/my_todolist_app.png">
+</details>
+
+<!--Project: -->
+### [Weather App (Node.js/React)](https://github.com/AlexandersProjects/WeatherProject)
+This is my Weather application. 
+<details>
+  <summary>More details</summary>
+  Get your own API-Key (it's for free), run the application (1. node install, 2. node ./app.js), and you can check the weather on your own website!
+
+#### Some screenshots from my application:
+  <img alt="A picture of my Weather App" src="./images/my_weather_app.png">
+  <img alt="A picture the response of my Weather App" src="./images/my_weather_app_response.png">
+
+</details>
 
 <!--Project: -->
 ### [My FreeCodeCamp Responsive Web Design Projects (HTML/CSS)](https://github.com/AlexandersProjects/ResponsiveWebDesignProjects_FCC)
@@ -395,8 +439,11 @@ This was my very first project.
 
 ## 🏆 My Stats:
 My stats are not complete because I don't commit my private projects often. Many times I only commit and push them after it's quite okay running or complete. Depending on the size of the project.
+
 <p>
     <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexandersprojects&show_icons=true&count_private=true&theme=github_dark" />&nbsp;&nbsp;
     <!-- Other themes: github_dark_dimmed, shadow_red, default, transparent -->
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandersprojects&layout=compact&theme=github_dark" />&nbsp;&nbsp;
 </p>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandersProjects)](https://github.com/anuraghazra/github-readme-stats) -->
