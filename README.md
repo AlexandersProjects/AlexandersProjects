@@ -441,7 +441,7 @@ This was my very first project.
 Not really accurate but I wanted to include them. Maybe it will become more accurate over time. I don't commit my private projects often. Many times I only commit and push them after it's quite okay running or complete. Depending on the size of the project.
 
 <a href="https://github.com/AlexandersProjects">
-  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandersProjects&theme=github_dark&layout=compact&hide=jupyter notebook,html" />
+  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandersProjects&theme=github_dark&layout=compact&hide=html" />
   <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandersProjects&theme=github_dark&show_icons=true&count_private=true&rank_icon=github" />
   <!-- Other themes: github_dark_dimmed, shadow_red, default, transparent -->
 </a>
