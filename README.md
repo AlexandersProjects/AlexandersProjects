@@ -440,10 +440,13 @@ This was my very first project.
 ## 🏆 My Stats:
 My stats are not complete because I don't commit my private projects often. Many times I only commit and push them after it's quite okay running or complete. Depending on the size of the project.
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alexandersprojects&show_icons=true&count_private=true&theme=github_dark" />&nbsp;&nbsp;
-    <!-- Other themes: github_dark_dimmed, shadow_red, default, transparent -->
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandersprojects&layout=compact&theme=github_dark" />&nbsp;&nbsp;
-</p>
+<a href="https://github.com/AlexandersProjects">
+  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandersProjects&theme=github_dark&show_icons=true?count_private=true" />
+  <!-- Other themes: github_dark_dimmed, shadow_red, default, transparent -->
+  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandersProjects&theme=github_dark&layout=compact&hide=jupyter notebook,html" />
+</a>
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandersProjects)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandersProjects)](https://github.com/anuraghazra/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+-->
