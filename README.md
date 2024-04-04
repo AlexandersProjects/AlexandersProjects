@@ -446,7 +446,7 @@ Not really accurate but I wanted to include them. Maybe it will become more accu
   <!-- Other themes: github_dark_dimmed, shadow_red, default, transparent -->
 </a>
 
-[© GitHub-Readme-stats](https://github.com/anuraghazra/github-readme-stats)
+[© GitHub-Readme-stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandersProjects)](https://github.com/anuraghazra/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
