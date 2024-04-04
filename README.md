@@ -441,10 +441,12 @@ This was my very first project.
 Not really accurate but I wanted to include them. Maybe it will become more accurate over time. I don't commit my private projects often. Many times I only commit and push them after it's quite okay running or complete. Depending on the size of the project.
 
 <a href="https://github.com/AlexandersProjects">
-  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexandersProjects&theme=github_dark&show_icons=true&count_private=true&rank_icon=github" />
-  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandersProjects&theme=github_dark&layout=compact&hide=jupyter%20notebook,html" />
+  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats-green-seven-42.vercel.app/api?username=AlexandersProjects&theme=github_dark&show_icons=true&count_private=true&rank_icon=github" />
+  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats-green-seven-42.vercel.app/api/top-langs/?username=AlexandersProjects&theme=github_dark&layout=compact&hide=jupyter%20notebook,html" />
   <!-- Other themes: github_dark_dimmed, shadow_red, default, transparent -->
 </a>
+
+[© GitHub-Readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandersProjects)](https://github.com/anuraghazra/github-readme-stats) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
