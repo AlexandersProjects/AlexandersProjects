@@ -22,6 +22,7 @@ Here, you'll find a collection of programming projects I've worked on, ranging f
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
@@ -63,9 +64,36 @@ Description
 
  -->
 
+<!--Project: -->
+### [Fullstack Issue Tracker (Javascript/Next.js/MySQL)](https://github.com/AlexandersProjects/fullstack-issue-tracker)
+This is my Issue Tracker. It is still developing. Right now, it has a List of Users and a Navigation-Bar.
+<details>
+  <summary>More details</summary>
+  The goal is to have a completely running 
+
+#### Some screenshots from my application:
+<img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</details>
 
 <!--Project: -->
-### [Todolist (Javascript/node.js/express.js)](https://github.com/AlexandersProjects/todolist-v2)
+### Fullstack-Application (Java/Springboot/Angular/MySQL)
+This is my fullstack application with Java and Angular. It is split up into frontend and backend:
+
+#### [My Frontend Example (Angular))](https://github.com/AlexandersProjects/frontendbeispiel)
+
+#### [My Backend Example (Java/Springboot)](https://github.com/AlexandersProjects/backendbeispiel)
+
+
+<details>
+  <summary>More details</summary>
+  I created this application as a possible starting point and as a reference for new projects. It`s running completely and works with MySQL.
+
+#### My application:
+<img alt="My angular frontend" src="/images/angular_frontend_beispiel.png">
+</details>
+
+<!--Project: -->
+### [Todolist (Javascript/node.js/express.js/MongoDB)](https://github.com/AlexandersProjects/todolist-v2)
 My Todo List application with Javascript, node.js, and express.js.
 <details>
   <summary>More details</summary>
