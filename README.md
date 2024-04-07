@@ -69,10 +69,20 @@ Description
 This is my Issue Tracker. It is still developing. Right now, it has a List of Users and a Navigation-Bar.
 <details>
   <summary>More details</summary>
-  The goal is to have a completely running 
+  The goal is to have a completely running Issue Tracker comparable to GitHub running. 
 
-#### Some screenshots from my application:
-<img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+  The core and planned features are:
+  | Core     |      Advanced |
+|:--------:|:-------------:|
+| Creating an issue | User authentication |
+| Viewing issues | Assigning issues |
+| Updating an issue | Sorting issues |
+| Deleting an issue | Filtering issues |
+|  | Pagination |
+|  | Dashboard |
+
+#### My application:
+<img alt="Users List of my Issue Tracker" src="/images/Fullstack_Issue_Tracker_Users.png">
 </details>
 
 <!--Project: -->
