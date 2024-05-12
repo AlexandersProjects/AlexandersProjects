@@ -479,7 +479,6 @@ This was my very first project.
 </details>
 
 ## 🏆 My Stats:
-Not really accurate but I wanted to include them. Maybe it will become more accurate over time. I don't commit my private projects often. Many times I only commit and push them after it's quite okay running or complete. Depending on the size of the project.
 
 <a href="https://github.com/AlexandersProjects">
   <img height="180em" alt="GitHub Stats" src="https://github-readme-stats-alexander-blaschko-schanzers-projects.vercel.app/api?username=AlexandersProjects&theme=github_dark&show_icons=true&count_private=true&rank_icon=github&hide_border=true" />
@@ -491,7 +490,7 @@ Not really accurate but I wanted to include them. Maybe it will become more accu
   -->
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandersProjects)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandersProjects) -->
 
 [© GitHub-Readme-stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
