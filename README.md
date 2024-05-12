@@ -27,7 +27,9 @@ Here, you'll find a collection of programming projects I've worked on, ranging f
 - 🛠️ &nbsp;
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Docker](https://img.shields.io/badge/docker-333333?style=flat&logo=docker)
 - 🛢 &nbsp;&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - 📚 &nbsp;
@@ -480,11 +482,16 @@ This was my very first project.
 Not really accurate but I wanted to include them. Maybe it will become more accurate over time. I don't commit my private projects often. Many times I only commit and push them after it's quite okay running or complete. Depending on the size of the project.
 
 <a href="https://github.com/AlexandersProjects">
-  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats-green-seven-42.vercel.app/api?username=AlexandersProjects&theme=github_dark&show_icons=true&count_private=true&rank_icon=github&hide_border=true" />
-  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats-green-seven-42.vercel.app/api/top-langs/?username=AlexandersProjects&theme=github_dark&layout=compact&hide=jupyter%20notebook,html&hide_border=true" />
+  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats-alexander-blaschko-schanzers-projects.vercel.app/api?username=AlexandersProjects&theme=github_dark&show_icons=true&count_private=true&rank_icon=github&hide_border=true" />
+  <img height="180em" alt="Most Used Languages" src="https://github-readme-stats-alexander-blaschko-schanzers-projects.vercel.app/api/top-langs/?username=AlexandersProjects&theme=github_dark&layout=compact&hide=jupyter%20notebook,html&hide_border=true" />
   <!-- Other themes: github_dark_dimmed, shadow_red, default, transparent -->
-  <!-- github-readme-stats-green-seven-42.vercel.app -->
+  <!-- 
+  github-readme-stats-green-seven-42.vercel.app
+  https://github-readme-stats-alexander-blaschko-schanzers-projects.vercel.app/
+  -->
 </a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandersProjects)
 
 [© GitHub-Readme-stats by anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
