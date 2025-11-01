@@ -1,48 +1,112 @@
 # Hi there 👋
-I'm Alexander, a biologist turned Java Software Developer with a passion for software that solves problems and automates stuff.
-After completing my master's degree in Biology, I found my way into the world of IT, where I've been thriving ever since. Here, I discovered that the systematic approach from biology is really useful for technology too. The world is a gigantic system afterall!<br>
+I'm Alexander, a **Java Backend Developer** and **Developer Experience Engineer** with a passion 
+for software that solves problems and automates stuff, focused on building **automation systems and developer platforms**.
+After completing my master's degree in Biology, I found that the systematic and curious mindset from science transfers perfectly into tech 
+— both are about understanding complex systems and making them work better.
+<br>
 
-Here, you'll find a collection of programming projects I've worked on, ranging from Java applications, over scripts and data science projects to web development ventures. Feel free to explore the code on [GitHub](https://github.com/AlexandersProjects) or dive into the summaries provided below.
+Today, I build tools that help developers ship with confidence and focus on creativity, not chaos.
+> 💡 My mission: **Build developer platforms and automation systems that enhance human creativity, support sustainability, and integrate AI responsibly.**
+---
+## 🔭 Current Focus
+- **Spring Boot APIs** with security, monitoring & database integration  
+- **Dockerized deployments** for fast and reproducible dev environments  
+- Building automation tools to enhance **developer experience**
+- Exploring **responsible AI integration** into developer workflows  
 
-- 🔭 I’m currently working as a Java Developer for a Document Management System.
-- 🌱 I’m passionate about agility methodologies and the evolving landscape of Web3 technologies.
-- ⚡ Fun fact: When I'm not coding, you'll find me immersed in fantasy novels (or trying to write one myself), strumming away on my guitar, or pondering the intricacies of philosophy.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexanderblaschkosch%C3%A4nzer/) [Gmail](mailto:alexander.blaschko@gmail.com) [Twitter](https://twitter.com/ThePositiveBoy)
-<!--- ![Twitter Follow](https://img.shields.io/twitter/follow/ThePositiveBoy?style=social) -->
+---
 
 ## 💻 My Tech Stack:
 <!-- [![Java, Git, JavaScript, HTML, CSS, SQL, Python, Next.js, Node.js, React, Angular](https://skillicons.dev/icons?i=java,git,js,html,css,py,next,nodejs,react,angular)](https://skillicons.dev) -->
 
-- 👨‍💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+- **👨‍💻 Core:**
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+
+- **🌱 Backend Frameworks:**
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=007396)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+  ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=fff)
+
+- **🛢 Databases:**
+  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+
+- **⚙️ DevOps & Tools:**
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)
+  ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
+  ![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)
+
+- **🧠 Developer Experience:**
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+  ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+  ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)
+  ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=007396)
+  ![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=007396)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=007396)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)
+- **🏗️ IDEs:**
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+  ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)
+  ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=007396)
+
+- **🎨 Design Tools:**
+  ![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
+- **🔁 Focus Areas:**
+Developer Experience • Automation • Platform Engineering • Python CLIs
+
+<details>
+<summary>🕰 Once Used / Familiar With</summary>
+
+  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=563D7C)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-- 🛠️ &nbsp;
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Docker](https://img.shields.io/badge/docker-333333?style=flat&logo=docker)
-- 🛢 &nbsp;&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/postgresql-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- 📚 &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🏗️ &nbsp;
-  ![IntelliJ Idea](https://img.shields.io/badge/-Intellij%20Idea-333333?style=flat&logo=intellij-idea&logoColor=007ACC)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🎨 &nbsp;&nbsp;
-  ![Krita](https://img.shields.io/badge/-Krita-333333?style=flat&logo=krita)
+</details>
+
+---
+
+## 👨‍👧‍👦 Beyond Code  
+I run **The Balanced Dad** — a small community helping fathers live *fit, free & focused* lives through health, mindset, and structure.  
+Because great systems (and great lives) are both built with balance. 🌱  
+
+📫 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/alexanderblaschkosch%C3%A4nzer/) 
+• [Twitter (X)](https://x.com/ActiveDadAlex) 
+• [The Balanced Dad (skool)](https://www.skool.com/balanced-freedom-4587)
+• [Email](mailto:alexander.blaschko@gmail.com)
+
+---
+
+## About Me
+- 🔭 I’m currently working as a Java Backend Developer.
+- 🌱 I’m passionate about agile methodologies and the evolving landscape of technologies.
+- ⚡ Fun fact: When I'm not coding, you'll find me immersed in fantasy novels (or trying to write one myself), strumming away on my guitar, or pondering the intricacies of philosophy.
+
+<!--- ![Twitter Follow](https://img.shields.io/twitter/follow/ThePositiveBoy?style=social) -->
+
+---
+
+Here, you'll find a collection of programming projects I've worked on, ranging from Java applications, over scripts 
+and data science projects to web development ventures. Feel free to explore the code on [GitHub](https://github.com/AlexandersProjects) or dive into the summaries provided below.
 
 ## ✨Some of my past projects:
 <!--🗄️ 🖇️ 📇 ✨ 🌟 -->
